@@ -1,4 +1,4 @@
-This is my EFI folder from MB Asrock B360m F4T4L1TY
+<p style="text-transform:uppercase">This is my EFI folder from MB Asrock B360m F4T4L1TY</p>
 
 My pc setting is:
 <ul>
@@ -19,3 +19,5 @@ We have to get <a href="https://github.com/corpnewt/GenSMBIOS">genSMBIOS</a> to 
 My conclusion:
 
 I have use this system 2 months ago, I studied on forums to get my hackintosh more perfect possible and the result is very cool, everything's working perfect to me and I keep gave my hackintosh better than now in the future.
+
+<img src="https://github.dev/LuizSoares1/EFI-Asrock-B360M-Fat4al1ty/blob/main/My%20mac%20os.png">
