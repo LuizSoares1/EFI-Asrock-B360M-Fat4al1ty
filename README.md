@@ -12,7 +12,7 @@ My pc setting is:
 
 Whats is Working?
 
-Everything by the moment.
+Everything in the moment.
 
 What i have to do after got this EFI?
 
