@@ -1,13 +1,13 @@
 This is my EFI folder from MB Asrock B360m F4T4L1TY
 
 My pc setting is:
-
--Asrock B360m F4T4L1TY
--I5 9400F 2.9 Ghz (4.1 Ghz Boost)
--16 GB 2666 Mhz HyperX Dual Chanel
--RX 580 8 GB Asus Dual
--Power Suply Thermaltake Smart Series 500W
-
+<ul>
+  <li>Asrock B360m F4T4L1TY</li>
+  <li>I5 9400F 2.9 Ghz (4.1 Ghz Boost)</li>
+  <li>16 GB 2666 Mhz HyperX Dual Chanel</li>
+  <li>RX 580 8 GB Asus Dual</li>
+  <li>Power Suply Thermaltake Smart Series 500W</li>
+</ul>
 Whats is Working?
 
 Everything by the moment.
