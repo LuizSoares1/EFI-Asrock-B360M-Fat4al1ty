@@ -1,4 +1,4 @@
-<p style="text-transform:uppercase">This is my EFI folder from MB Asrock B360m F4T4L1TY</p>
+This is my EFI folder from MB Asrock B360m F4T4L1TY
 
 My pc setting is:
 <ul>
@@ -8,6 +8,8 @@ My pc setting is:
   <li>RX 580 8 GB Asus Dual</li>
   <li>Power Suply Thermaltake Smart Series 500W</li>
 </ul>
+
+
 Whats is Working?
 
 Everything by the moment.
