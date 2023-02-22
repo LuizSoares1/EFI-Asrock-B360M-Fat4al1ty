@@ -16,7 +16,9 @@ Everything by the moment.
 
 What i have to do after got this EFI?
 
-We have to get <a href="https://github.com/corpnewt/GenSMBIOS">genSMBIOS</a> to generate our MB serial to use all apple services on system. I recomend that you generate SMBIOS to <strong>MacPro7,1</strong> but you also can generate to <strong>iMacPro1,1</strong>, the important is that it's machine with dedicated video to fix DRM.
+We have to get <a href="https://github.com/corpnewt/GenSMBIOS">genSMBIOS</a> to generate our MB serial to use all apple services on system. I recomend that you generate SMBIOS to <strong>MacPro7,1</strong> but you also can generate to <strong>iMacPro1,1</strong>, the important is that it's machine with dedicated video to fix DRM. After you get all keys from GenSMBIOS, paste all keys that show's on image.
+
+<img src="">
 
 My conclusion:
 
